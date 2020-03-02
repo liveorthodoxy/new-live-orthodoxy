@@ -1,0 +1,29 @@
+# Header
+menu:
+  Home: /
+  About: /about
+  Contact: /contact
+
+# Favicon
+favicon_url:
+
+# Default Image for Posts
+default_cover_image: images/default.jpg
+
+# Google Analytics Tracking ID
+google_analytics:
+
+# Social Accounts
+email_url:
+twitter_url: https://twitter.com/thomcrowe
+facebook_url: https://www.facebook.com/thomcrowe
+instagram_url: https://www.instagram.com/thomcrowe
+linkedin_url: https://www.linkedin.com/thomcrowe
+dribbble_url:
+github_url: https://www.github.com/thomcrowe
+googleplus_url:
+behance_url:
+fivehundredpx_url:
+
+# Disqus comments
+disqus_shortname:
