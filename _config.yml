@@ -3,21 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Live Orthodoxy
+subtitle: Ramblings, musings, and ponderings of an Orthodox deacon
 description:
 keywords:
-author: John Doe
+author: Rev. Dn. Thom CRowe
 language:
   - en
-  - zh-cn
-  - es
 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yoursite.com
+url: https://liveorthodoxy.com
 root: /
 permalink: :lang/:year/:month/:day/:title/
 permalink_defaults:
@@ -89,3 +87,12 @@ deploy:
 # Include redirects file
 include:
   - _redirects
+
+# Favicon
+favicon_url:
+
+# Default Image for Posts
+default_cover_image: images/default.jpg
+
+# Google Analytics Tracking ID
+google_analytics:
