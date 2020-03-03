@@ -10,5 +10,3 @@
 /           /es        302  Language=es
 /about      /es/about  302  Language=es
 /archives/* /en/archives/:splat 302 Language=es
-
-

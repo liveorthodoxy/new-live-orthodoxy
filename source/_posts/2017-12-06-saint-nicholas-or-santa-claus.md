@@ -1,0 +1,28 @@
+---
+title: Saint Nicholas or Santa Claus
+lang: en
+date: '2017-12-06T18:41:59+07:00'
+cover_image: images/st-nicholas-icon.jpg
+---
+Santa Claus is everywhere this time of year. I’m not going to lie; it brings me so much joy that every time my daughter sees Santa or any man white a long white beard, she says, “Ho Ho.” Each year, around this time, we see stories pop up that purport Santa Claus is not Saint Nicholas but instead a derivative of any number of pre-Christian, European folklore traditions.
+
+## Who was the _real_ St. Nicholas?
+St. Nicholas was a bishop in Myra in Lycia, which is present-day Turkey. He was born to parents who, like Sts. Joachim and Anna were unable to have a child. He was known for his devotion, kindness, and love of his flock, all of which led to his consecration as a bishop. He was devoted to Christ from childhood. During the reign of Emperor Diocletian, St. Nicholas was imprisoned and was subjected to punishments and tortures for refusing to worship idols. He encouraged those in prison and helped them remain faithful throughout their tribulations.
+
+St. Nicholas also served as one of the bishops at the First Council of Nicea, defending the Christian faith against the Arians, who denied the divinity of Christ, insisting instead that he was just a man. During a heated exchange with Arius, St. Nicholas became so angered that he struck and knocked out Arius. The other Bishops removed him, but that night they had a dream in which the Virgin Mary told them to admit him back to the council - his anger was out of love for Christ.
+
+The saint, at advanced naturally in age and fell asleep in the Lord peacefully. His relics remained incorruptible, and oil flowed from them that led to many healings. In 1087, St. Nicholas was moved to Bari in Italy, where they are to this day.
+
+## How to talk about Saint Nicholas and Santa at home
+One of the best ways to talk about St. Nicholas is to celebrate St. Nicholas Day, which just so happens to be today, December 6th. We’re half-way through the fast, so it seems like a good time for a little celebration. In Orthodox homes, we set our children’s shoes by the front door and fill them with gold coins (usually chocolate, Target has them out at Christmas time, or you can get some with St. Nicholas on them from [Paidea Classics](http://www.paideaclassics.com/index.php?sid=&cart_id=&admin=1&category_id=639), fruits, peppermints, or little trinkets. The gold coins are essential because they recount an integral part of the story from the life of St. Nicholas. As tradition holds, there was a man who had three daughters but no money for dowries for them, so he contemplated selling them. As the first daughter came of age, St. Nicholas left three gold coins in the girl’s shoe for her dowry, hence why we put them in the shoes. Some homes place oranges in the shoes of their children, which serve as metaphorical gold coins. The second daughter came of age, and St. Nicholas returned and left her dowry as well. When his third daughter needed her dowry, the father waited up and caught St. Nicholas gifting the dowry. St. Nicholas implored him to give thank and dedicate himself to God.
+
+There are great books that you can read every year with your family. For our St. Nicholas Day party at our parish this year, one of our parishioners read [St. Nicholas and the Nine Gold Coins](St. Nicholas and the Nine Gold Coins). I heard that while I stepped away, St. Nicholas made an appearance and brought all of the kids gold coins, but when I came back, he was gone. Your family may also enjoy the book [St. Nicholas the Wonderworker](https://www.orthodoxmarketplace.com/eSSS/ProductInfo/CB726.aspx) or the [St. Nicholas learning cube](http://store.ancientfaith.com/orthodox-learning-cube-saint-nicholas/).
+
+## Our Santa Tradition
+Last year, my wife and I read [an article](an article) from a mom who explained how her family balances Santa and being open with their children. My wife and I liked the premise, but we worked together to incorporate Santa into our home while shining light on the real St. Nicholas and our focus on Christ’s birth.
+
+We will never tell our daughter that Santa is real. I know this is hard for a lot of people to read, but please, hear me out. Our daughter gets her shoes filled and will open presents on Christmas morning. Once she is old enough and asks us if Santa is real, we’re going, being honest with her. We are planning to tell her that St. Nicholas was a genuine and authentic historical figure and tell her about his life and his love of Christ and all of humanity. Because we love St. Nicholas and want to honor him, mommy and daddy “help” him by leaving gifts in secret for you. Now that you know how this all works, we want you to help honor St. Nicholas as well; let’s pick out someone that we can secretly leave gifts for from St. Nicholas. We learn from St. Nicholas, whose love for Christ was so great that he gave to others selflessly, so we are going to express our love for Christ by imitating St. Nicholas as he emulated Christ. Just as God gave the greatest gift to all of us in the Incarnation 2000 years ago, we are going to give gifts with no expectation of recognition or return.
+
+During this hectic time of year, let us all take a moment today to slow down, reflect on the life of St. Nicholas, and the lessons he left for us as we, like the Magi, continue to approach the cave.
+
+> _The truth of things revealed thee to thy flock as a rule of faith, a model of humility, and a teacher of temperance. Therefore thou hast won the heights by meekness, riches by poverty. Holy Father Nicholas, intercede with Christ our God that our souls may be saved. - Troparion to St. Nicholas_
