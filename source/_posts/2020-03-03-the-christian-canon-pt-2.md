@@ -1,9 +1,8 @@
 ---
-layout: blog
 title: The Christian Canon - pt 2
+lang: en
 date: '2014-05-29T00:00:00-05:00'
-thumbnail: /images/uploads/canon2.jpg
-rating: '1'
+cover_image: images/uploads/canon2.jpg
 ---
 So taking a slight detour in our journey into the Christian canon I started last week, I thought I’d write some thoughts on the Christian Old Testament. The conversation came up recently and a friend made reference to the “Catholic books of the OT” and talked about how they added to the Bible. Unfortunately, in the many Evangelical circles, this is the view. So here is a little on the history of the Christian Old Testament.
 
@@ -26,4 +25,3 @@ The New Testament writers and the Church Fathers almost unanimously used the Sep
 ## The Christian Canon - The Orthodox Old Testament
 
 The Orthodox Church fortunately wasn’t confronted with Reformation movement. To this day, the Orthodox Church uses the Septuagint as its Old Testament source and Canon. This is the compilation that has been used since the time of Christ (not to mention that Christ Himself quoted!). We have not added or taken away any books from the Old Testament, but instead keep the Old Testament as it was throughout much of the world at the time of Christ. Our canon has not been decided upon based on what was accepted by the Jewish community after the death of Christ, but instead what was used by the Apostles and their successors. Fortunately for us, we have the Orthodox Study Bible, released by Thomas Nelson Publishers, which is an Orthodox translation of the Septuagint, giving us an English translation of the Septuagint to use. The Septuagint has many great lessons and stories that do provide spiritually edification and have a great deal to offer to Christians today (I myself love the [Book of Tobit](https://www.biblegateway.com/passage/?search=Tobit+1&version=RSVCE)).
-

@@ -1,9 +1,8 @@
 ---
-layout: blog
 title: The Septuagint in the New Testament
+lang: en
 date: '2014-05-19T13:09:00-05:00'
-thumbnail: /images/uploads/septuagint.jpg
-rating: '2'
+cover_image: images/uploads/septuagint.jpg
 ---
 It’s no surprise to anyone that the New Testament writers quoted the Old Testament a lot (about 300 times); what was surprising for me to learn is how many times they used the Septuagint in the New Testament. The Septuagint (LXX) is the Greek translation of the Old Testament which includes books that are not in the Masoratic Text, which is the Hebrew Old Testament reformers like Martin Luther looked to as more accurate. Here are just a handful of examples of the New Testament writers quoting the Septuagint in the New Testament.
 

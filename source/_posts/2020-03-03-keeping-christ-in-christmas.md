@@ -1,9 +1,8 @@
 ---
-layout: blog
 title: Keeping Christ in Christmas
+lang: en
 date: '2015-12-19T00:00:00-06:00'
-thumbnail: /images/uploads/charlie-brown-christmas.jpg
-rating: '4'
+cover_image: images/charlie-brown-christmas.jpg
 ---
 Keeping Christ in Christmas
 

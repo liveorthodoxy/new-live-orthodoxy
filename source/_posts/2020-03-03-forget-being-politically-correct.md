@@ -1,9 +1,8 @@
 ---
-layout: blog
 title: Forget Being Politically Correct
+lang: en
 date: '2015-11-02T12:00:00-06:00'
-thumbnail: /images/uploads/kindness.jpg
-rating: '4'
+cover_image: images/kindness.jpg
 ---
 I wish I could claim originality in my inspiration for this, but I can’t. An author and blogger I follow [Angela Doll Carlson}(http://blogs.ancientfaith.com/nearlyorthodox/) shared a thought on a Facebook group we’re both a part of that caused me to pause and think - “*Stop talking about whether or not something is politically correct. Ask instead whether if is kind. Let’s aim for kindness.*” For some reason, this struck me - if we could just focus on showing kindness, how much better would things be?
 
