@@ -95,6 +95,6 @@ We know that death entered the world through sin and is something that every liv
 
 Because of sins, we were held captive; the righteous dead were filing into hades. Christ came to set them free. Jesus had to go into the realm of death - that meant becoming a human, entering the world through a woman, living an earthly life, and then allowing himself to be killed. We see him on the cross, not like he's writhing in agony, but looking more like a hero. He maintains a heroic status in Orthodoxy; we look upon him as our Redeemer, Savior, Deliverer, who, with His boldness, and his power, and his compassion, suffered, and died, and went into hades in order to set us free. The image of the resurrection looks different than European art. In our iconography, Christ is standing on the broken gates of hell, lifting Adam and Eve out of hades.
 
-Hebrews 2:14-15 tells us "that through death He  might destroy him who had the power of death, that is, the Devil, and deliver all those who through fear of death were subject to lifelong bondage."
+Hebrews 2:14-15 tells us "_that through death He  might destroy him who had the power of death, that is, the Devil, and deliver all those who through fear of death were subject to lifelong bondage._"
 
 Christ's work is redemptive. Christ's sacrifice was restorative. Christ brings God to man, as only one who is God and man can, bridging the gap, conquering death, and restoring us to life. This is the good news in the Scriptures. This is what has been taught by the Church since Pentecost.

@@ -1,9 +1,8 @@
 ---
-layout: blog
-title: What's So Great About Pascha
+title: What's So Great About Pascha?
+lang: en
 date: '2017-04-15T00:00:00-05:00'
-thumbnail: /images/uploads/pascha.jpg
-rating: '5'
+cover_image: images/pascha.jpg
 ---
 I was asked this week by someone to expound on my comment, “I’m a huge fan of the Lenten and Paschal season in the East. Nothing ever done compares to Pascha (Orthodox Easter).” I was asked what Pascha is like for me, a question that I’ve been asked several times and really enjoy answering.
 

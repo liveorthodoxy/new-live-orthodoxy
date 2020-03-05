@@ -1,9 +1,9 @@
 ---
-layout: blog
 title: Sharing the Faith
+lang: en
 date: '2017-10-01T00:00:00-05:00'
-thumbnail: /images/uploads/sharing-the-faith.jpg
-rating: '5'
+cover_image: images/sharing-the-faith.jpg
+
 ---
 I like to consider myself an amateur Orthodox apologist focusing on modern religious movements - amateur being the operative word in that sentence. When I'm traveling, and I see the Jehovah's Witnesses in a busy thoroughfare or an airport, I always stop to pick up their newest Watchtower literature, which I give a cursory read on the plane. While in Seattle a few weeks ago, I drove by the Mormon Temple and saw a group of missionaries in their perfectly pressed white shirts and ties and their Elder name badges. This got me to thinking about how we about something I don't usually - at what we can learn from these groups and how they try to reach people.
 

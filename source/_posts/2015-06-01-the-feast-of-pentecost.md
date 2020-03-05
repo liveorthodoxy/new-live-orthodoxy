@@ -2,7 +2,7 @@
 title: The Feast of Pentecost
 lang: en
 date: '2015-06-01T16:46:19-05:00'
-cover_image: images/uploads/pentecost1.jpg
+cover_image: images/pentecost1.jpg
 ---
 It’s interesting for me to look at the world around me as we approach the Great Feasts and note how so few people I know observe these Feasts of the Christian faith (save Christmas and, for some, Easter). Growing up, I had never really heard of the Feast of Pentecost as a Christian celebration, it was a foreign concept to me after I joined the Church and now it serves as one of my favorite feasts of the year. Of course, I had read about Pentecost; growing up Charismatic, Acts 2 was a favorite read, but I didn’t really know that it was celebrated throughout the Christian world much as Christmas had been, and the Jewish feasts of the Old Testament. I grew up Charismatic, so Pentecost was a defense for speaking in tongues (not an issue I’m going to delve into, suffice to say, my interpretation of this is dramatically different now), but its place as an actual feast recognized every year 50 days after Pascha (Easter) was not there, so I thought I’d share a little on the traditional understanding of the Feast of Pentecost.
 

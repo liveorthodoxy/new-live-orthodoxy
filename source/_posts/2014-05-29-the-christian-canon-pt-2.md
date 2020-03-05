@@ -2,7 +2,7 @@
 title: The Christian Canon - pt 2
 lang: en
 date: '2014-05-29T00:00:00-05:00'
-cover_image: images/uploads/canon2.jpg
+cover_image: images/canon2.jpg
 ---
 So taking a slight detour in our journey into the Christian canon I started last week, I thought I’d write some thoughts on the Christian Old Testament. The conversation came up recently and a friend made reference to the “Catholic books of the OT” and talked about how they added to the Bible. Unfortunately, in the many Evangelical circles, this is the view. So here is a little on the history of the Christian Old Testament.
 

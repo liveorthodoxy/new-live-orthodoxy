@@ -1,7 +1,7 @@
 ---
 title: 12 Things I Love About Orthodoxy
 lang: en
-date: '2015-03-03T03:41:59+07:00'
+date: '2018-10-18T03:41:59+07:00'
 cover_image: images/12things.jpg
 ---
 

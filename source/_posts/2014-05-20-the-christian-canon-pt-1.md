@@ -2,7 +2,7 @@
 title: The Christian Canon - pt 1
 lang: en
 date: '2014-05-20T13:13:00-05:00'
-cover_image: images/uploads/canon1.jpg
+cover_image: images/canon1.jpg
 
 ---
 I thought I’d write briefly on the canon of Scripture, but, as it is with everything I do and say, it ended up being not so brief.

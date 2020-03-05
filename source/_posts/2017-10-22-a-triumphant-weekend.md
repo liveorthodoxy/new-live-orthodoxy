@@ -1,9 +1,8 @@
 ---
-layout: blog
 title: A Triumphant Weekend
+lang: en
 date: '2017-03-31T00:00:00-05:00'
-thumbnail: /images/uploads/lazarus-saturday.jpg
-rating: '3'
+cover_image: images/lazarus-saturday.jpg
 ---
 This weekend is an interesting time in the Orthodox Church’s liturgical calendar; we are in a time between [Great Lent](http://lent.goarch.org/) and Holy Week; it’s a joyous and triumphant time for us that foreshadows the universal resurrection! We celebrate two days called [Lazarus Saturday](http://www.antiochian.org/lazarussaturday) and [Palm Sunday](http://www.antiochian.org/palmsunday). I know many Western Christians celebrate Palm Sunday (I remember our little Assemblies of God church giving all of the kids palms to wave in the air as our pastor would talk about Jesus’ triumphant entry into Jerusalem), but Lazarus Saturday doesn’t exist in the West.
 

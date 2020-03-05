@@ -1,6 +1,7 @@
 ---
 title: About
 lang: en
+cover_image: images/deaconthom.jpg
 ---
 
 # About Dn. Thom

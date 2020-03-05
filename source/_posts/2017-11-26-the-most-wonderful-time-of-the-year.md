@@ -1,9 +1,8 @@
 ---
-layout: blog
 title: The Most Wonderful Time of the Year
+lang: en
 date: '2017-11-26T16:58:00-06:00'
-thumbnail: /images/uploads/most-wonderful-time.jpg
-rating: '5'
+cover_image: images/most-wonderful-time.jpg
 ---
 <sup>_This is a revision and update from my original article written November 15, 2015.</sup>_
 

@@ -1,13 +1,11 @@
 ---
-layout: blog
 title: Is Cremation a Good Option?
+lang: en
 date: '2017-10-22T17:04:00-05:00'
-thumbnail: /images/uploads/orthodox-cemetery.jpg
-rating: '-23'
+cover_image: images/orthodox-cemetery.jpg
 ---
+
 _Before I begin, I fully acknowledge that something like cremation may not seem to be a big theological issue - Christians today are getting cremated all the time and honored with “Celebrations of Life” instead of funerals (but that’s a topic for a whole different article) without giving it much thought. Unfortunately, it is a pretty big issue rooted in ancient heresy and a denial of basic Judeo-Christian beliefs._
-
-
 
 ## Biblical history of the disposal of a body
 
