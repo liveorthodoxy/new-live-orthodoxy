@@ -2,7 +2,7 @@
 layout: blog
 title: Mary Did You Know?
 date: '2016-12-02T00:00:00-06:00'
-thumbnail: /images/uploads/maryknew.jpg
+cover_image: images/maryknew.jpg
 rating: '3'
 ---
 ## It’s Just a Christmas Song

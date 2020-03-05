@@ -1,9 +1,9 @@
 ---
-layout: blog
 title: Asceticism of Fatherhood
+lang: en
 date: '2017-03-05T00:00:00-06:00'
-thumbnail: /images/uploads/fatherhood.jpg
-rating: '5'
+cover_image: images/fatherhood.jpg
+
 ---
 <sub>This article was originally written as part of a series on parenting for [Illumination Learning](http://illumination-learning.com/main/2017/03/15/asceticism-of-fatherhood/) site and appeared there first. </sub>
 
