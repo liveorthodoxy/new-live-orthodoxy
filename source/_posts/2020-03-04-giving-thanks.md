@@ -1,9 +1,8 @@
 ---
-layout: blog
 title: Giving Thanks
+lang: en
 date: '2016-11-24T00:00:00-06:00'
-thumbnail: /images/uploads/thanksgiving.jpg
-rating: '2'
+cover_image: images/thanksgiving.jpg
 ---
 We Orthodox are a thankful bunch; we give thanks to God when we wake in the morning and before we go to sleep, during our hours of prayer and during the Divine Liturgy. Our whole lives are a time for us to offer thanks to God. That doesn’t negate the fact that I love Thanksgiving, the day that we as a nation take some time to pause and reflect on the many blessings we each have.
 

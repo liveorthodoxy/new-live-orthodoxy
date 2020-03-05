@@ -1,9 +1,9 @@
 ---
-layout: blog
-title: This I Believe - Creeds in Chrisitianity
+title: This I Believe - Creeds in Christianity
+lang: en
 date: '2019-04-17T00:00:00-05:00'
-thumbnail: /images/uploads/holyeucharist-icon.jpg
-rating: '3'
+cover_image: images/holyeucharist-icon.jpg
+
 ---
 <sub> _TL:DR- Doctrine matters. It’s not possible to truly be one with diverse teachings. This is why we have creeds - to preserve the faith delivered once and for all - the faith handed to the Apostles by Christ and preserved unconquered by the Holy Spirit’s operation in the Church._</sub>
 
