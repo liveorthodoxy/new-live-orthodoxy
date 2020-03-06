@@ -1,7 +1,7 @@
 ---
 title: A Living Liturgical Tradition
 lang: en
-date: '2016-02-09T00:00:00-06:00'
+date: '2019-01-17T00:00:00-06:00'
 cover_image: images/living-tradition.jpg
 ---
 I feel like I should get this out of the way before we get started here: I love the liturgy. I really do. I’ve been a part of a liturgical tradition for 15 years now, nearly half of my life and I honestly can’t imagine not participating liturgically in my worship of God. With that out of the way, you’ve been warned.

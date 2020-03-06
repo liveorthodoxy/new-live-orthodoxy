@@ -1,7 +1,7 @@
 ---
-lang: en
 title: Is your church worship more pagan than Christian?
-date: '2019-01-17T00:00:00-06:00'
+lang: en
+date: '2019-04-16T00:00:00-06:00'
 cover_image: images/christian-or-pagan.jpg
 ---
 Awhile back, Christianity.com posted an [article](http://www.christianity.com/church/worship-and-hymns/is-your-church-worship-more-pagan-than-christian.html) posing a great question, “Is your church worship more pagan than Christian?” A friend of mine shared it on Facebook and there was a discussion about the nature and purpose of worship, but there were some key points that I think the article neglected.
