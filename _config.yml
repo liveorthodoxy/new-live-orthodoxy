@@ -95,4 +95,8 @@ favicon_url:
 default_cover_image: images/default.jpg
 
 # Google Analytics Tracking ID
-google_analytics:
+google_analytics: UA-636696060-1
+
+# Sitemap for the Googles
+sitemap:
+  path: sitemap.xml
