@@ -9,6 +9,7 @@ I went to a conference a few weeks ago for work in San Francisco (against my wif
 As the pandemic grows, it's creating some honestly trying times. I read online, and there are so many opinions floating around about what the right response is from the Church. Criticisms are being waged against bishops, arguments are breaking out on social media, and people are frustrated - the general feeling of uneasiness and anxiety is manifesting in very negative ways.
 
 Let's look at some positives we can find and how it can grow our spiritual life.
+
 &nbsp;
 ### Focus on Your Little Church
 &nbsp;
