@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: Finding the Positive in a Time of Choas
+=======
+title: Finding the Positive in a Time of Chaos
+>>>>>>> 7c9e305d391bde7be966d797c992d0fbb422088a
 lang: en
 date: '2020-03-17T13:10:31-05:00'
 cover_image: images/uploads/maxresdefault-1-.jpg
@@ -9,6 +13,10 @@ I went to a conference a few weeks ago for work in San Francisco (against my wif
 As the pandemic grows, it's creating some honestly trying times. I read online, and there are so many opinions floating around about what the right response is from the Church. Criticisms are being waged against bishops, arguments are breaking out on social media, and people are frustrated - the general feeling of uneasiness and anxiety is manifesting in very negative ways.
 
 Let's look at some positives we can find and how it can grow our spiritual life.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7c9e305d391bde7be966d797c992d0fbb422088a
 &nbsp;
 ### Focus on Your Little Church
 &nbsp;

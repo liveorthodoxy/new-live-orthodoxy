@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hexo + Netlify CMS Starter
 
 ## Intro
@@ -89,3 +90,8 @@ Thus, in my `_redirects` file, I specified `/zh-cn/about` as a redirect rule for
 
 ### Display a single language on the home page
 By default, our theme shows posts in all languages on the home page. We only want to show posts written in the default language of the browser. I found a nice plug-in [hexo-generator-index-i18n](https://github.com/xcatliu/hexo-generator-index-i18n) to filter out the unrelated posts. For example, if you go to https://yourwebsite.com/zh-cn/, you'd only see the posts written in Chinese. 
+=======
+## Live Orthodoxy
+
+Home of the blog of Rev. Dn. Thom Crowe at St. Antony Orthodox Christian Parish in Tulsa, OK.
+>>>>>>> 7c9e305d391bde7be966d797c992d0fbb422088a
