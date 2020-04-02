@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
 title: Finding the Positive in a Time of Choas
-=======
-title: Finding the Positive in a Time of Chaos
->>>>>>> 7c9e305d391bde7be966d797c992d0fbb422088a
 lang: en
 date: '2020-03-17T13:10:31-05:00'
 cover_image: images/uploads/maxresdefault-1-.jpg
