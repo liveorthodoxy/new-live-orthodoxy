@@ -2,7 +2,7 @@
 title: Exiled by Covid-19
 lang: en
 date: '2020-04-02T11:10:03-05:00'
-cover_image: images/uploads/censing-in-church1.png
+cover_image: images/uploads/38985492020_fc9354f1f0_k.jpg
 ---
 
 I know things are rough right now - COVID-19 has pushed us all to live a much more isolated life than the vast majority of us are used to or comfortable with. From the conversations I have with friends and coworkers, I see that my general sense of anxiety has plenty of company. This is something we're all in together, and most of humanity is in the same boat for the first time that I know of. COVID-19 has made this a part of our shared human experience, bringing us closer together despite our physical distance.
