@@ -19,12 +19,21 @@ We are all longing for normalcy now. Instead of waiting for the Messiah, we stil
 
 Just look at the beautiful life of the saint we celebrate this Sunday - St. Mary of Egypt. St. Mary was nothing short of a saint on earth before she fell asleep in the Lord. She walked on water, lived with less than minimal food, and knew the Holy Scriptures by heart without having read or heard them. What a glorious saint! She wandered the desert for 47 years alone before St. Zosimos unexpectedly discovered her. God worked many great miracles in her - she still longed for the Eucharist again. She asked St. Zosimos to return a year later to commune her. Her patience was rewarded and she received the precious Body and Blood of Christ one time before she reposed. 48 years between communing she was like a flower of repentance in the desert, yet, she still longed for the Eucharist. We can remember the struggles of St. Mary of Egypt during the rest of Lent, practicing repentance and seeking God with all of our hearts, all of our minds, and all of our souls, all while longing for the Eucharist.
 
+It's hard to stay away, I get it. But remember, this is still an opportunity to grow. St. John of the Ladder teaches us, "Obedience is the tomb of the will and the resurrection of humility." We learn by humbly understanding while we feel as though we are outside looking in.
+
 ## Let’s Get Our Little Church in Order
 
 I mentioned this in a previous article and it came up again as I was talking to Fr. Dn. Aaron Scott Taylor from Oklahoma City who pointed out, “this is an opportunity to cultivate our domestic and inner prayer life, where the responsibility for worship lies entirely with us.” As Archimandrite Aemilianos of Simonopetra:
+
 > Whatever happens in church at certain moments, during Vespers, or during the Liturgy at Holy Communion, is continued by means of prayer. And I cannot say that "I will go to church" if I haven't been praying.' Let's be praying now, so that when we can 'go to church' it will really mean something.
 
 Even in the darkest of times, remember the words of St. John of Kronstadt, "Prayer breathes hope.”
+
+## Let's Prepare
+
+As we listen to the health experts advising us on this pandemic, they've made one thing very clear: things are going to get worse before they get better. The numbers are startling. We have to be realistic about what's ahead. As we prepare ourselves, it's important to know, to know those who suffer, don't suffer alone. Christ suffers right next to us.  The late Fr. Tom Hopko reminds us, "If someone said to me 'God is compassionate,' I'd remind them that the word "compassionate" means co-passionate or co-suffering. The God who is compassionate is the God who suffers with us. He's not the God who takes our suffering away in the fallen world." As followers of Christ, we to suffer with those who are in pain, who are ill, who suffer through compassion. St. Paisos of the Holy Mountain stresses the importance of compassion and co-suffering when he says, "Those who do not co-suffer with those who live in great pain are suffering from the most fatal of spiritual illnesses ... Mercilessness."
+
+We give and take comfort in knowing that our brothers and sisters in Christ are with us in prayers. Christ is with us in all of our pain. More importantly, we have hope. Hope in Christ and hope in the Resurrection. We are with Christ in all that we do, all that we suffer, all that we celebrate, and all that we mourn.
 
 ## Let's Be Grateful
 
