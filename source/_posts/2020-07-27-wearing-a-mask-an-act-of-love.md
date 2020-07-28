@@ -18,10 +18,10 @@ There are those in our communities, in our workplaces, and in our churches who a
 *Compassion* is rooted in Latin and literally means *"to suffer with."* We have those in our community who suffer and Romans 15:1 tells us that "those that are strong ought to bear the infirmities of the weak," and 1 Corinthians 12:26 says, "if one member suffers, all suffer together." These are just a few examples, how many times throughout the Scriptures are we called to care for others, to show mercy, and to be compassionate? Refusing to wear a mask because of mild discomfort isn't really suffering with our neighbors.
 
 St. Nikolai Velimirovic gives a good insight into what mercy looks like.
-> *Seven brothers were ill in one hospital. One recovered from his illness and got up and rushed to serve his other brothers with brotherly love, to speed their recovery. Be like this brother. Consider all men to be your brothers, and sick brothers at that. And if you come to feel that God has given you better health than others, know that it is given through mercy, so in health you may serve your frailer brothers.*
+> *"Seven brothers were ill in one hospital. One recovered from his illness and got up and rushed to serve his other brothers with brotherly love, to speed their recovery. Be like this brother. Consider all men to be your brothers, and sick brothers at that. And if you come to feel that God has given you better health than others, know that it is given through mercy, so in health you may serve your frailer brothers.""*
 
 That was pretty powerful for me. If we are in better health, we ought to use it to serve those. Compassion and mercy are key aspects of our Christian faith, so much so that St. Basil tells us that we won't find mercy if we don't show mercy. St Moses of Optina goes even further, pointing out that showing compassion is not a big deal:
-> *“If at some time you show mercy to someone, mercy will be shown to you. If you show compassion to one who is suffering (and of course, this is not a great deed), you will be numbered among the martyrs.*
+> *“If at some time you show mercy to someone, mercy will be shown to you. If you show compassion to one who is suffering (and of course, this is not a great deed), you will be numbered among the martyrs."*
 
 
 ## We are Called to Love
@@ -31,7 +31,7 @@ St. Basil the Great teaches us, *“a good deed is never lost; he who sows court
 
 ## True Freedom vs Perceived Freedom
 
-One of the arguments I keep hearing against masks is about "our freedoms" and the government's role in mandating masks. Many, many Christians are pro-life, and I don't just mean anti-abortion, but against euthanasia and the death penalty. For those, masks only make sense. Something as simple as wearing a mask, if we are an asymptomatic carrier, can save lives. If people politically pro-life believe laws can forbid abortion for a woman, how do they argue that masks that save lives are too much of an overreach? It doesn't make sense. If we are pro-life, let's be pro-life and do the right thing.
+One of the arguments I keep hearing against masks is about "our freedoms" and the government's role in mandating masks. Many, many Christians are pro-life, and I don't just mean anti-abortion, but against euthanasia and the death penalty. For those, masks only make sense. Something as simple as wearing a mask, if we are an asymptomatic carrier, can save lives. If people politically pro-life believe laws can forbid abortion for a woman, how do they argue that masks that save lives are too much of an overreach? It doesn't make sense. If Christians are going to say they are pro-life, be pro-life. Do what you can to help save others.
 
 Our freedom is in Christ, not in the world. What does that mean? "For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another" (Galatians 5:13). We are free, but that freedom is found in our willingness and ability to serve one another in love. Does it seem like serving or loving to refuse something so simple that can save lives.
 
@@ -46,7 +46,7 @@ I watched a recording of a city council hearing where members of the community c
 St. Paul, when writing to St. Timothy, addressed his stomach ailment and told him how to care for it (1 Timothy 5:23). Even in the Apostolic Era, they used modern medical advice for health issues. And the wine St. Timothy was instructed to take didn't alter his digestive tract. It didn't bring into question God's sovereignty over the body. It was common sense, much like wearing a mask to stop the spread of a deadly and life-altering virus.
 
 ## Final Ramblings
-For me, wearing a mask is a point of strengthening my faith. When I wear it, I'm reminded of those around me who are suffering, and I try to suffer with them. It's humbling to receive ridicule for wearing a mask (and was a good point for me to check my level of frustration with others and pray for them). I wear it to protect myself but also as a very tangible way to love my neighbor.
+For me, wearing a mask is a point of strengthening my faith. When I wear it, I'm reminded of those around me who are suffering, and I try to suffer with them. It's humbling to receive ridicule for wearing a mask (and was a good point for me to check my level of frustration with others and pray for them). I wear it to protect myself but also as a very tangible way to love my neighbor. This mask I wear is a cross we bear right now, a visible, tangible sign that we all love one another. 
 
 
 I'm going to leave off with a final thought, not from me, but from St. Peter of Damascus on how we show and why we show love. May Christ guide us in all we do.
