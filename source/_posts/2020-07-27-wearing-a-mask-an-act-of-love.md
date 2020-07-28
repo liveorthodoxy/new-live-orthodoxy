@@ -4,7 +4,7 @@ lang: en
 date: 2020-07-27T21:36:42-05:00'
 cover_image: images/uploads/compassion.jpg
 ---
-# Put On The Mask
+# Let's Put On The Mask  
 
 I hate wearing masks. I really do. I wear glasses so, I have to continually pinch the bridge of my nose to keep my exhalation from fogging up my glasses, but I’ve been wearing a mask anytime I’ve been in a public space since February 22nd, without fail. I’ve slept on red-eye flights with my mask on, worked hard building a trade show booth, then stood for 12+ hours on an exhibition floor, walked for miles, and spent 2 weeks in a small RV after an exposure. I didn’t enjoy any of these, especially since I was away from my wife and daughter for almost a month between a trip and quarantine. So why do I do it? For me, the answer is simple: my faith and the world views it influences.
 
